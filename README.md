@@ -147,7 +147,7 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
-<img width="607" height="348" alt="image" src="https://github.com/user-attachments/assets/6aa8ba33-d05d-4c33-85a8-805962ed553a" />
+<img width="607" height="348" alt="image" src="https://github.com/user-attachments/assets/6aa8ba33-d05d-4c33-85a8-805962ed553a" /><br>
 ### Visualization Output:
 <img width="1242" height="706" alt="image" src="https://github.com/user-attachments/assets/f7b48596-cbd6-4330-8ef6-d9b4b2c99f8d" />
 <img width="1239" height="720" alt="image" src="https://github.com/user-attachments/assets/0b3777d8-a77a-49cb-b103-fa6ae8655023" />
